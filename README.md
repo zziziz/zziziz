@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---><div align= "center">
+-->
+<div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e12d2d,100:713232&height=120&text=HELLO%20MYWORLD&animation=fadeIn&fontColor=5d1d1d&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
